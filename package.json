@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-replace": "^5.0.2",
-    "@vitejs/plugin-vue": "^4.1.0",
+    "@vitejs/plugin-vue": "^6.0.1",
     "@vitejs/plugin-vue2": "^2.2.0",
     "@vue/compiler-sfc": "^3.2.22",
     "rete": "^2.0.1",
@@ -44,7 +44,7 @@
     "rollup-plugin-scss": "^3.0.0",
     "rollup-plugin-styles": "^4.0.0",
     "sass": "^1.56.0",
-    "vite": "^4.1.1",
+    "vite": "^7.1.5",
     "vue": "^2.7.14",
     "vue-template-compiler": "^2.7.14",
     "vue3": "npm:vue@^3.2.47"
